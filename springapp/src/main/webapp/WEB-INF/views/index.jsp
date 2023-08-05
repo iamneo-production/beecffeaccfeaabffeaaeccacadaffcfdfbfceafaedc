@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
     <form action="saveTask">
         enter id:<input type="number" name="taskid">
