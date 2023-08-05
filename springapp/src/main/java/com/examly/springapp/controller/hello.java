@@ -1,4 +1,4 @@
-package com.example.demo5.controller;
+package com.examly.springapp.controller;
 
 import java.util.List;
 import java.util.Map;
